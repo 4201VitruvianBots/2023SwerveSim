@@ -17,3 +17,9 @@ This is an example template that uses a mix of the 2023 RevLib libraries for NEO
 * Using L3 configuration geared for 16 ft/s (NEO) or 18 ft/s (Falcon)  (6.12:1)
 * Steering Gear ratio is 12.8:1 (See Patrick's post on [ChiefDelphi](https://www.chiefdelphi.com/t/sds-mk3-swerve-module/388331/60)
 * Assumes you are using CTRE CANCoders to reset the module absolute position and a CTRE Pigeon2 as your gyroscope.
+
+
+## Special Thanks
+* [The WPILib Team](https://github.com/wpilibsuite) - For the development of WPILib and all of the simulation features that enables this to work.
+* [Team 364](https://github.com/team364) - For creating the initial swerve code implementation using CTRE Falcons.
+* [Team 2194](https://github.com/fondyfire2194) - For creating a port of our code that is comptible with Rev SparkMaxes.
